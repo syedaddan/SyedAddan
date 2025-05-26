@@ -69,8 +69,7 @@
 <a href="https://twitter.com/syed_addan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syed_addan" height="75" width="100" /></a>
 <a href="https://linkedin.com/in/syedaddan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syedaddan" height="75" width="100" /></a>
 <a href="https://kaggle.com/syedaddan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="syedaddan" height="75" width="100" /></a>
-<a href="https://instagram.com/syedaddan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syedaddan" height="75" width="100" /></a>
-<a href="https://discord.gg/557548825154420737" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="557548825154420737" height="75" width="100" /></a>
+<a href="https://instagram.com/syed_addan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syedaddan" height="75" width="100" /></a>
 </p>
 
 <br>
