@@ -15,11 +15,11 @@
 
 - 🔭 On my nights and weekends, I work on [Folio](https://github.com/SyedAddan/folio) <img src="https://media.giphy.com/media/idXKBFevLVjU67jBLa/giphy.gif" width="60">
 
-- 🌱 I’m currently learning **WebRTC** <img src="https://media.giphy.com/media/CE7mCYe9kqwrpvlOj0/giphy.gif" width="60">
+- 🌱 I’m currently learning **n8n** <img src="https://media.giphy.com/media/CE7mCYe9kqwrpvlOj0/giphy.gif" width="60">
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/SyedAddan) (right where you are!) <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="60">
 
-- 💬 Ask me about **python, nlp, transformers** <img src="https://media.giphy.com/media/gLFEUVlLAjabfwJEPX/giphy.gif" width="60">
+- 💬 Ask me about **voice agents, ai, transformers** <img src="https://media.giphy.com/media/gLFEUVlLAjabfwJEPX/giphy.gif" width="60">
 
 - 👾 I love doing **3d arts**, **reading** and **writing** <img src="https://media1.giphy.com/media/LkjlH3rVETgsg/giphy.gif?cid=6c09b952ep5v6ood5xoiz97o1dpnbsl0cw8nh2fc7vq5855b&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="60">
 
